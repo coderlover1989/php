@@ -1,1 +1,2 @@
-zhangsan is a clever girl!
+<?php
+echo "hello git!";
